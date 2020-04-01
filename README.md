@@ -1,5 +1,5 @@
-Fisa vim config
-===============
+Kitty config
+============
 
 Kitty (A cross-platform, fast, feature full, GPU based terminal emulator ) configuration files.
 https://github.com/kovidgoyal/kitty
